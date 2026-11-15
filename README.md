@@ -43,11 +43,11 @@ I also work on **ML/DL model development, training, evaluation, and optimization
 
 ### 1. AI-Based Vision Compliance Monitoring
 
-Domain: Industrial Computer Vision & Real-Time Video Analytics
+**Domain:** Industrial Computer Vision & Real-Time Video Analytics
 
 Developed an AI-powered video analytics solution for monitoring workplace safety and hygiene compliance using computer vision techniques.
 
-Key Contributions:
+**Key Contributions:**
 
 - Fine-tuned object detection models using custom annotations provided by the client.
 - Worked with crowded-scene datasets to improve detection performance in dense environments.
@@ -59,7 +59,7 @@ Key Contributions:
 - Achieved an average processing throughput of 12.5 FPS on an NVIDIA RTX PRO 4000 Blackwell GPU.
 - Focused on people detection and visual analysis of workplace safety and hygiene compliance conditions.
 
-Performance & Deployment:
+**Performance & Deployment:**
 
 - Target deployment scale: Up to 50 concurrent camera streams.
 - Per-camera processing throughput: 12.5 FPS.
@@ -68,7 +68,7 @@ Performance & Deployment:
 - Video analytics framework: NVIDIA DeepStream.
 - GPU: NVIDIA RTX PRO 4000 Blackwell.
 
-Technologies: Python, PyTorch, OpenCV, Ultralytics YOLO, NVIDIA DeepStream, FP16, NVIDIA GPU Computing
+**Technologies:** Python, PyTorch, OpenCV, Ultralytics YOLO, NVIDIA DeepStream, FP16, NVIDIA GPU Computing
 
 
 ### 2. Shelf Position Recognition Dashboard
