@@ -91,3 +91,11 @@ Developed a Computer Vision proof of concept for detecting misplaced products on
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+# 📬 Connect With Me
+
+I'm always open to discussing Computer Vision, AI projects, and new collaboration opportunities.
+
+- LinkedIn: "Your LinkedIn Profile" (https://www.linkedin.com/in/yasin-azadi/)
+- Email: Yasinazadipour@gmail.com
+- WhatsApp: "Contact Me on WhatsApp" (https://wa.me/+989338683308)
