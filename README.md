@@ -32,11 +32,7 @@ I also work on **ML/DL model development, training, evaluation, and optimization
 
 ### Data & Scientific Computing
 
-- NumPy
-- Pandas
-- Matplotlib
-- SciPy
-- Scikit-learn
+- NumPy, Pandas, Matplotlib, SciPy, Scikit-learn
 
 ## 📄 Freelance & Real-World Projects
 ![Projects-RealWorld](./images/RealWorld-p.png)
