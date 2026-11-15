@@ -1,6 +1,6 @@
 About me
 
-# AI & Computer Vision Engineer
+# 🏷 AI & Computer Vision Engineer
 
 I'm an AI Engineer specializing primarily in **Computer Vision**, with a strong foundation in **Machine Learning and Deep Learning**. I focus on developing practical, scalable AI solutions that address real-world challenges.
 
@@ -8,7 +8,7 @@ My core areas of interest include **Image Processing, Object Detection, Image Se
 
 I also work on **ML/DL model development, training, evaluation, and optimization**, with an emphasis on building effective and reliable AI solutions.
 
-## 🧰 Languages & Frameworks
+## 🛄 Languages & Frameworks
 
 ### Programming Languages 
 
@@ -38,7 +38,7 @@ I also work on **ML/DL model development, training, evaluation, and optimization
 - SciPy
 - Scikit-learn
 
-## 💼 Freelance & Real-World Projects
+## 📄 Freelance & Real-World Projects
 ![Projects-RealWorld](./images/RealWorld-p.png)
 
 ### 1. AI-Based Vision Compliance Monitoring
