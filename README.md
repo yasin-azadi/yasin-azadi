@@ -1,44 +1,73 @@
 About me
 
+# AI & Computer Vision Engineer
 
-# 💻 Skills
+I'm an AI Engineer specializing primarily in **Computer Vision**, with a strong foundation in **Machine Learning and Deep Learning**. I focus on developing practical, scalable AI solutions that address real-world challenges.
 
-- 👁️ Computer Vision
-- 🤖 Generative AI
-- 🧠 Deep Learning
+My core areas of interest include **Image Processing, Object Detection, Image Segmentation, and Document OCR**. I enjoy transforming complex visual problems into intelligent and efficient solutions using modern computer vision techniques and deep learning architectures.
 
-**More Skills:** [LinkedIn](https://linkedin.com/in/yasin-azadi)
+I also work on **ML/DL model development, training, evaluation, and optimization**, with an emphasis on building effective and reliable AI solutions.
 
----
+## 🧰 Languages & Frameworks
 
-# 🚀 Languages & Frameworks
+### Programming Languages 
 
-### Programming Language
+- **Python:** Proficient in Python, with the ability to write clean, modular, maintainable, and scalable code. Comfortable navigating large codebases, understanding existing implementations, and contributing to complex software projects.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **C++:** Basic proficiency in C++, with the ability to write basic programs and work with fundamental language concepts.
 
 ### Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white)
-![RT-DETR](https://img.shields.io/badge/RT--DETR-FF6B35?style=for-the-badge)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062FF?style=for-the-badge)
-![EasyOCR](https://img.shields.io/badge/EasyOCR-009688?style=for-the-badge)
+- **OpenCV:** Primary toolkit for image processing, video analysis, and computer vision applications.
+- **Ultralytics YOLO & RT-DETR:** Strong expertise in object detection, model architectures, version comparison, and performance evaluation.
+- **ONNX:** Model export and cross-platform inference for deployment across different hardware.
+- **MediaPipe:** Real-time pose estimation and human movement analysis.
+- **PaddleOCR:** Document OCR and text extraction, including complex document layouts.
+- **EasyOCR:** Lightweight OCR and text recognition solutions.
 
 ### Deep Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+- **PyTorch:** Primary deep learning framework. Proficient in working with official documentation, implementing research papers, and translating research concepts into practical PyTorch implementations.
+- **TensorFlow & Keras:** Familiar with model development and training, with a primary focus on PyTorch.
 
 ### Data & Scientific Computing
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- Scikit-learn
 
----
+## 💼 Freelance & Real-World Projects
+![Projects-RealWorld](./images/RealWorld-p.png)
+
+### 1. AI-Based Vision Compliance Monitoring
+
+**Domain:** Industrial Computer Vision & Video Analytics
+
+Developed an AI-powered video analytics solution for monitoring workplace safety and hygiene compliance using computer vision techniques.
+
+**Key Contributions:**
+- Fine-tuned object detection models using custom annotations provided by the client.
+- Worked with a crowded-scene dataset to improve detection performance in dense environments.
+- Performed model training and experimentation using the company's GPU infrastructure.
+- Focused on detecting people and analyzing visual compliance conditions in camera footage.
+
+**Technologies:** Python, PyTorch, OpenCV, Ultralytics YOLO
+
+### 2. Shelf Position Recognition Dashboard
+
+**Domain:** Retail Computer Vision & Product Recognition
+
+Developed a Computer Vision proof of concept for detecting misplaced products on retail shelves by comparing detected product positions against predefined planograms.
+
+**Key Contributions:**
+- Designed a product detection and shelf-position validation pipeline.
+- Processed shelf images and mapped detected products to predefined shelf zones.
+- Implemented planogram-based position verification.
+- Designed visual feedback to highlight correctly placed and misplaced products.
+
+**Technologies:** Python, OpenCV, YOLO, Computer Vision
 
 # 🛠️ Software & Tools
 
@@ -46,56 +75,3 @@ About me
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasin-azadi)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasin-azadi)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasinazadipour@gmail.com)
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l00_000_000)
-
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989338683308)
-
-
-
-</p>
-
----
-
-<h2>📫 Connect with Me</h2>
-
-<p>
-
-<a href="https://github.com/yasin-azadi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<!-- Replace with your LinkedIn -->
-<!--
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
--->
-
-<!-- Replace with your Email -->
-<!--
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
--->
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
